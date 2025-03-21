@@ -8,5 +8,7 @@
 <body>
     <h1>This this new button</h1>
     <h1>This this index dropdown</h1>
+    <h1>This this index select</h1>
+    <h1>This this index select soft reset</h1>
 </body>
 </html>
